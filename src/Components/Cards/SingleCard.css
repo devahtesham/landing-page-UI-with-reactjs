@@ -1,0 +1,33 @@
+.card__container {
+  background-color: rgb(28, 28, 56);
+  padding: 1rem;
+  color: #fff;
+}
+.serv__img {
+  width: 45px;
+  height: 45px;
+}
+.specs li {
+  font-size: 13px;
+}
+.card__container h5 {
+  font-size: 14px;
+}
+.card__container h4 {
+  font-size: 16px;
+}
+.card__container h6 {
+  font-size: 12px;
+}
+.card__section {
+  margin-top: 300px;
+}
+.card__main__heading:hover {
+  color: #4444ef;
+}
+.b__bottom {
+  width: 66%;
+  height: 3px;
+  margin: 14px 0;
+  background-color: #fff;
+}

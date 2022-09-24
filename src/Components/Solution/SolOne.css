@@ -1,0 +1,11 @@
+.sol__header h1 {
+  font-size: 24px !important;
+}
+.client__img {
+  width: 60px;
+  height: 60px;
+  margin: 14px 0 10px 0;
+}
+.solution__container {
+  margin-top: 95px !important;
+}

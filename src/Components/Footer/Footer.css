@@ -1,0 +1,19 @@
+footer {
+  background-color: #1c1c38;
+  color: #fff;
+}
+a.footer__link {
+  background: none;
+}
+a.footer__link:hover,
+a.footer__link:active,
+a.footer__link:focus {
+  background-color: unset !important;
+  border: none;
+}
+.f_head_header {
+  margin-bottom: 16px;
+}
+.footer__content {
+  padding: 47px 0 18px 0;
+}
